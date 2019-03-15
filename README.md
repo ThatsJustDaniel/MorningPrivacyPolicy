@@ -1,7 +1,5 @@
-# MorningPrivacyPolicy
-Morning! - A 5 Minute Journal privacy policy
+# Morning! - A 5 Minute Journal Privacy Policy
 
-### Privacy Policy
 Adriana Padilla built the Morning! - A 5 Minute Journal app as a Free app. This Service is provided by Adriana Padilla at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
