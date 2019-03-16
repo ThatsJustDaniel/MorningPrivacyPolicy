@@ -1,7 +1,7 @@
 # Morning! - A 5 Minute Journal Privacy Policy
 ### Effective date: March 15, 2019
 
-Morning! - A 5 Minute Journal ("us", "we", or "our") operates the mobile application (the "Service").
+Adriana Padilla ("us", "we", or "our") operates the mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Morning! - A 5 Minute Journal is created with the help of the Free Privacy Policy website.
 
